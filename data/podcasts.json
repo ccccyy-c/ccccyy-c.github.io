@@ -1,0 +1,76 @@
+{
+  "podcasts": [
+    {
+      "id": "p001",
+      "title": "忽左忽右",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/example1",
+      "source": "xiaoyuzhou",
+      "category": "人文",
+      "subtitle": "文化沙龙类播客，话题横跨历史、文学、社会",
+      "host": "程衍樑",
+      "added": "2026-07-30",
+      "tags": ["文化", "历史", "社会"]
+    },
+    {
+      "id": "p002",
+      "title": "Steve说",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/example2",
+      "source": "xiaoyuzhou",
+      "category": "心理",
+      "subtitle": "专注心理学科普与个人成长",
+      "host": "Steve",
+      "added": "2026-07-30",
+      "tags": ["心理学", "成长", "情绪"]
+    },
+    {
+      "id": "p003",
+      "title": "Hidden Brain",
+      "url": "https://podcasts.apple.com/podcast/example3",
+      "source": "apple",
+      "category": "英文",
+      "subtitle": "探索人类行为背后的无意识模式",
+      "host": "Shankar Vedantam",
+      "added": "2026-07-30",
+      "tags": ["心理学", "行为科学", "英文"]
+    },
+    {
+      "id": "p004",
+      "title": "疯投圈",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/example4",
+      "source": "xiaoyuzhou",
+      "category": "商业",
+      "subtitle": "从投资视角解析商业逻辑",
+      "host": "黄海 / Rio",
+      "added": "2026-07-30",
+      "tags": ["投资", "商业", "消费"]
+    },
+    {
+      "id": "p005",
+      "title": "故事FM",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/example5",
+      "source": "xiaoyuzhou",
+      "category": "故事",
+      "subtitle": "用声音纪录片记录真实人生",
+      "host": "寇爱哲",
+      "added": "2026-07-30",
+      "tags": ["故事", "纪录片", "人生"]
+    },
+    {
+      "id": "p006",
+      "title": "知行小酒馆",
+      "url": "https://www.xiaoyuzhoufm.com/podcast/example6",
+      "source": "xiaoyuzhou",
+      "category": "商业",
+      "subtitle": "关注投资理财与生活方式",
+      "host": "有知有行",
+      "added": "2026-07-30",
+      "tags": ["理财", "生活方式", "投资"]
+    }
+  ],
+  "recommendations": [],
+  "preferences": {
+    "categories": [],
+    "languages": [],
+    "duration": null
+  }
+}
