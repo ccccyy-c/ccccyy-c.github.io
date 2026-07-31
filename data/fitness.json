@@ -1,0 +1,51 @@
+{
+  "workouts": [],
+  "measurements": [],
+  "plans": [],
+  "preferences": {
+    "categories": [],
+    "duration": null,
+    "difficulty": null,
+    "focusAreas": [],
+    "trainers": []
+  },
+  "recommendations": [],
+  "videos": [
+    {
+      "id": "v001",
+      "title": "帕梅拉 10min 全身燃脂",
+      "url": "https://www.bilibili.com/video/BV1example1",
+      "source": "bilibili",
+      "duration": "10分钟",
+      "difficulty": "中等",
+      "category": "有氧燃脂",
+      "tags": ["燃脂", "全身", "HIIT"],
+      "trainer": "帕梅拉",
+      "added": "2026-07-30"
+    },
+    {
+      "id": "v002",
+      "title": "周六野 5min 瘦腰腹",
+      "url": "https://www.bilibili.com/video/BV1example2",
+      "source": "bilibili",
+      "duration": "5分钟",
+      "difficulty": "入门",
+      "category": "核心训练",
+      "tags": ["瘦腰", "腹部", "马甲线"],
+      "trainer": "周六野",
+      "added": "2026-07-30"
+    },
+    {
+      "id": "v003",
+      "title": "Emi Wong 20min 全身拉伸",
+      "url": "https://www.bilibili.com/video/BV1example3",
+      "source": "bilibili",
+      "duration": "20分钟",
+      "difficulty": "入门",
+      "category": "拉伸放松",
+      "tags": ["拉伸", "放松", "柔韧性"],
+      "trainer": "Emi Wong",
+      "added": "2026-07-30"
+    }
+  ]
+}
