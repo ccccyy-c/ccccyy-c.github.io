@@ -1,0 +1,13 @@
+{
+  "entries": [],
+  "moods": [
+    { "id": "happy",    "label": "开心", "emoji": "😊", "color": "#F5C242" },
+    { "id": "calm",     "label": "平静", "emoji": "😌", "color": "#7EB8DA" },
+    { "id": "excited",  "label": "兴奋", "emoji": "🤩", "color": "#E67E9D" },
+    { "id": "anxious",  "label": "焦虑", "emoji": "😰", "color": "#E89B7B" },
+    { "id": "sad",      "label": "难过", "emoji": "😢", "color": "#9DAFC1" },
+    { "id": "tired",    "label": "疲惫", "emoji": "😴", "color": "#BDBDBD" },
+    { "id": "angry",    "label": "生气", "emoji": "😤", "color": "#E07A6B" },
+    { "id": "thinking", "label": "思考", "emoji": "🤔", "color": "#C49DCF" }
+  ]
+}
